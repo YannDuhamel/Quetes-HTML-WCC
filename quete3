@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Yann Duhamel">
+    <meta name="description" content="Développeur web front-end, je développe des sites internet et applications web innovantes">
+    <meta property="og:image" content="https://placekitten.com/200/287">
+    <meta property="og:title" content="All you need to know about cats 🐈  | Cat's World">
+    <meta property="og:description" content="Everything that you need to know about cats. Find out more about different cat breeds, their habits and life in general. Read more articles, watch videos and learn everything there is to know about cats.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="All you need to know about cats 🐈  | Cat's World">
+    <meta name="twitter:description" content="Everything that you need to know about cats. Find out more about different cat breeds, their habits and life in general. Read more articles, watch videos and learn everything there is to know about cats.">
+    <meta name="twitter:site" content="@cats_world">
+    <meta name="twitter:image" content="https://placekitten.com/200/287">
+    
+    <title>Les chats</title>
+</head>
+<body>
+<h1>Qui sont les chats ?</h1>
+
+<p>Les chats sont les membres de la famille des <em>félins</em>, et ils partagent de nombreuses caractéristiques avec leurs cousins ​​les lions, les tigres et les panthères. Les <strong>chats</strong> domestiques sont les plus populaires au monde et sont adorés par des millions de personnes pour leur compagnie et leur affectueuse nature.</p>
+
+<h1>Quelle est l'histoire des chats ?</h1>
+
+<h2>Les premiers chats domestiques</h2>
+
+<p>Les <strong>chats</strong> sont originaires d'Afrique, d'Asie et d'Europe, et ils ont été domestiqués il y a environ 9 000 ans. Les premiers chats domestiques étaient probablement des chats sauvages qui se sont approchés des humains pour profiter de leur nourriture. Au fil du temps, les <strong>chats</strong> et les <em>humains</em> ont développé une relation symbiotique, et les chats ont été apprivoisés et domestiqués.</p>
+
+<h2>La domestication des chats en Europe</h2>
+
+<p>Les chats ont été introduits en Europe au Moyen Âge, où ils ont été utilisés pour chasser les rats et les souris. Les nobles européens ont rapidement adopté les chats comme animaux de compagnie, et ils ont été très appréciés pour leur beauté et leur personnalité. Au fil du temps, les chats ont été introduits dans d'autres parties du monde, et ils ont rapidement gagné en popularité.</p>
+
+<h1>Quelles sont les caractéristiques des chats ?</h1>
+
+<p>Les chats sont des animaux très intelligents et ils ont un sens aigu de l'observation. Ils sont également très flexibles, et ils peuvent se contorsionner pour atteindre des endroits inaccessibles. Les chats sont capables de sauter jusqu'à cinq fois leur hauteur, et ils peuvent courir à des vitesses allant jusqu'à 45 <abbr title="kilomètres par heure">km/h</abbr>.</p>
+
+<p>Les chats ont une excellente vision nocturne, et ils sont très sensibles aux mouvements. Ils ont également un excellent sens de l'odorat, et ils peuvent détecter des odeurs à des distances allant jusqu'à 100 mètres.</p>
+<br>
+<blockquote cite="https://absolumentchats.com/60-citations-sur-les-chats/">« Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats. » Albert Schweitzer</blockquote>
+
+<pre>
+    <code>
+&lt;h1&gt;Hello, world&lt;/h1&gt;
+&lt;h2&gt;Welcome to my Website&lt;/h2&gt;
+    </code>
+</pre>
+
+</body>
+</html>
